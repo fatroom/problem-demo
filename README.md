@@ -97,7 +97,7 @@ Demonstrates a problem response with HTTP 402 Payment Required status.
 
 ## Testing with HTTP Client
 
-An `example.http` file is included for testing with IntelliJ IDEA's HTTP Client or similar tools:
+An `api-examples.http` file is included in the `docs/` directory for testing with IntelliJ IDEA's HTTP Client or similar tools:
 
 ```http
 ### GET request to message endpoint
