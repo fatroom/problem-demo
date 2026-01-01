@@ -1,0 +1,6 @@
+### GET request to message endpoint
+GET http://localhost:8080/hello
+
+
+### GET request to problem endpoint
+GET http://localhost:8080/paywall

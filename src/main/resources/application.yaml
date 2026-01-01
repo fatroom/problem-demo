@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: problem-demo
+
+  mvc:
+    problemdetails:
+      enabled: true
